@@ -1,0 +1,208 @@
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.deps.json
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.runtimeconfig.json
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.runtimeconfig.dev.json
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.pdb
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.pdb
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csprojAssemblyReference.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfoInputs.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfo.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.CoreCompileInputs.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.TagHelpers.input.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.TagHelpers.output.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorCoreGenerate.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Brands.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Categories.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorTargetAssemblyInfo.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorTargetAssemblyInfo.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.pdb
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.CopyComplete
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.pdb
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.genruntimeconfig.cache
+C:\Users\hala hamed\Desktop\Poster\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csprojAssemblyReference.cache
+C:\Users\hala hamed\Desktop\Poster\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfoInputs.cache
+C:\Users\hala hamed\Desktop\Poster\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfo.cs
+C:\Users\hala hamed\Desktop\Poster\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.CoreCompileInputs.cache
+C:\Users\hala hamed\Desktop\Poster\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cache
+C:\Users\hala hamed\Desktop\Poster\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cs
+C:\Users\hala hamed\Desktop\Poster\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.dll
+C:\Users\hala hamed\Desktop\Poster\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\appsettings.json
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.deps.json
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.runtimeconfig.json
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.runtimeconfig.dev.json
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.AssemblyReference.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfoInputs.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfo.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.CoreCompileInputs.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.TagHelpers.input.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.TagHelpers.output.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorCoreGenerate.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Index.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Brands.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Categories.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorTargetAssemblyInfo.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorTargetAssemblyInfo.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.CopyComplete
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.genruntimeconfig.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\appsettings.json
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.deps.json
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.runtimeconfig.json
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.runtimeconfig.dev.json
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.dll
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.pdb
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.dll
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.pdb
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.AssemblyReference.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfoInputs.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfo.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.CoreCompileInputs.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.sourcelink.json
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.TagHelpers.input.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.TagHelpers.output.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorCoreGenerate.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Index.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Brands.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Categories.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorTargetAssemblyInfo.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorTargetAssemblyInfo.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.pdb
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmi.1977D63A.Up2Date
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.dll
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.pdb
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Account.cshtml.g.cs
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Admin.cshtml.g.cs
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.deps.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.runtimeconfig.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.runtimeconfig.dev.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.AssemblyReference.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfoInputs.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.AssemblyInfo.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.csproj.CoreCompileInputs.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorAssemblyInfo.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.sourcelink.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.TagHelpers.input.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.TagHelpers.output.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorCoreGenerate.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Brands\Index.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Account.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Admin.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Order.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Brands.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Categories.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorTargetAssemblyInfo.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.RazorTargetAssemblyInfo.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.Views.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmi.1977D63A.Up2Date
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.UI\obj\Debug\netcoreapp2.2\ThreeAmigos.UI.genruntimeconfig.cache

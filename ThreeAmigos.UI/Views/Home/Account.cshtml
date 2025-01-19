@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account - Three Amigos</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        #userInfo, #editForm {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        #userInfo p {
+            margin: 10px 0;
+        }
+        #userInfo strong {
+            display: inline-block;
+            width: 80px;
+        }
+        form label {
+            display: block;
+            margin-top: 10px;
+        }
+        input[type="text"], input[type="email"], input[type="tel"], textarea {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            margin-top: 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .account-actions {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .delete-btn {
+            background-color: #e74c3c;
+        }
+        .delete-btn:hover {
+            background-color: #c0392b;
+        }
+        .company-info {
+            background-color: #ecf0f1;
+            border-radius: 8px;
+            padding: 15px;
+            margin-top: 20px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Account</h1>
+
+    <div id="userInfo">
+        <h2>User Information</h2>
+        <p><strong>Name:</strong> <span id="userName">Islam Makhachev</span></p>
+        <p><strong>Email:</strong> <span id="userEmail">IslamMakhachev@email.com</span></p>
+        <p><strong>Phone:</strong> <span id="userPhone">+1234567890</span></p>
+        <p><strong>Address:</strong> <span id="userAddress">123 Main St, City, Country</span></p>
+    </div>
+
+    <div id="editForm" style="display:none;">
+        <h2>Edit User Information</h2>
+        <form id="userForm">
+            <label for="editName">Name:</label>
+            <input type="text" id="editName" required>
+            
+            <label for="editEmail">Email:</label>
+            <input type="email" id="editEmail" required>
+            
+            <label for="editPhone">Phone:</label>
+            <input type="tel" id="editPhone" required>
+            
+            <label for="editAddress">Address:</label>
+            <textarea id="editAddress" required></textarea>
+            
+            <button type="submit">Save Changes</button>
+            <button type="button" onclick="cancelEdit()">Cancel</button>
+        </form>
+    </div>
+
+    <div class="account-actions">
+        <button onclick="editAccount()">Edit Account</button>
+        <button onclick="deleteAccount()" class="delete-btn">Delete Account</button>
+    </div>
+
+    <script>
+        // The JavaScript remains unchanged
+        window.onload = function() {
+            document.getElementById('userName').textContent = localStorage.getItem('userName') || 'Islam Makhachev';
+            document.getElementById('userEmail').textContent = localStorage.getItem('userEmail') || 'IslamMakhachev@email.com';
+            document.getElementById('userPhone').textContent = localStorage.getItem('userPhone') || '+1234567890';
+            document.getElementById('userAddress').textContent = localStorage.getItem('userAddress') || '123 Main St, City, Country';
+        };
+
+        function editAccount() {
+            document.getElementById('userInfo').style.display = 'none';
+            document.getElementById('editForm').style.display = 'block';
+            
+            document.getElementById('editName').value = document.getElementById('userName').textContent;
+            document.getElementById('editEmail').value = document.getElementById('userEmail').textContent;
+            document.getElementById('editPhone').value = document.getElementById('userPhone').textContent;
+            document.getElementById('editAddress').value = document.getElementById('userAddress').textContent;
+        }
+
+        function cancelEdit() {
+            document.getElementById('userInfo').style.display = 'block';
+            document.getElementById('editForm').style.display = 'none';
+        }
+
+        document.getElementById('userForm').onsubmit = function(e) {
+            e.preventDefault();
+            
+            document.getElementById('userName').textContent = document.getElementById('editName').value;
+            document.getElementById('userEmail').textContent = document.getElementById('editEmail').value;
+            document.getElementById('userPhone').textContent = document.getElementById('editPhone').value;
+            document.getElementById('userAddress').textContent = document.getElementById('editAddress').value;
+
+            localStorage.setItem('userName', document.getElementById('userName').textContent);
+            localStorage.setItem('userEmail', document.getElementById('userEmail').textContent);
+            localStorage.setItem('userPhone', document.getElementById('userPhone').textContent);
+            localStorage.setItem('userAddress', document.getElementById('userAddress').textContent);
+
+            cancelEdit();
+        };
+
+        function deleteAccount() {
+            if (confirm("Are you sure you want to delete your account? This action cannot be undone.")) {
+                localStorage.removeItem('userName');
+                localStorage.removeItem('userEmail');
+                localStorage.removeItem('userPhone');
+                localStorage.removeItem('userAddress');
+
+                document.getElementById('userName').textContent = '';
+                document.getElementById('userEmail').textContent = '';
+                document.getElementById('userPhone').textContent = '';
+                document.getElementById('userAddress').textContent = '';
+
+                alert("Account deleted successfully!");
+            }
+        }
+    </script>
+</body>
+</html>

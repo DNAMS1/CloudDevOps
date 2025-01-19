@@ -1,0 +1,53 @@
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.deps.json
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csprojAssemblyReference.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.AssemblyInfoInputs.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.AssemblyInfo.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csproj.CopyComplete
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.deps.json
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csproj.AssemblyReference.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.AssemblyInfoInputs.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.AssemblyInfo.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csproj.CoreCompileInputs.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csproj.CopyComplete
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.deps.json
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csproj.AssemblyReference.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.AssemblyInfoInputs.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.AssemblyInfo.cs
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csproj.CoreCompileInputs.cache
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.sourcelink.json
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmi.FDA8C23F.Up2Date
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+c:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.deps.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csproj.AssemblyReference.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.AssemblyInfoInputs.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.AssemblyInfo.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.sourcelink.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmi.FDA8C23F.Up2Date
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Persistance\obj\Debug\netcoreapp2.2\ThreeAmigos.Persistance.pdb

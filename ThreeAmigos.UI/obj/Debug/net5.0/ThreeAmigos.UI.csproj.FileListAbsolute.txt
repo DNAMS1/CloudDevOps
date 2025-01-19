@@ -1,0 +1,8 @@
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\net5.0\ThreeAmigos.UI.csprojAssemblyReference.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\net5.0\ThreeAmigos.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\net5.0\ThreeAmigos.UI.AssemblyInfoInputs.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\net5.0\ThreeAmigos.UI.AssemblyInfo.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\net5.0\ThreeAmigos.UI.csproj.CoreCompileInputs.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\net5.0\ThreeAmigos.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\net5.0\ThreeAmigos.UI.RazorAssemblyInfo.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.UI\obj\Debug\net5.0\ThreeAmigos.UI.RazorAssemblyInfo.cs

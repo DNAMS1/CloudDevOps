@@ -1,0 +1,107 @@
+﻿@{
+    ViewData["Title"] = "About Us - ThreeAmigos";
+}
+
+<div class="about-us-container">
+    <h1 class="main-title">About ThreeAmigos</h1>
+    
+    <div class="intro-section">
+        <p>ThreeAmigos Corp, established in 2024, is a leading e-commerce platform revolutionizing the way you shop online. We connect you with high-quality products from approved third-party suppliers, offering a seamless and secure shopping experience.</p>
+    </div>
+
+    <div class="mission-section">
+        <h2>Our Mission</h2>
+        <p>At ThreeAmigos, we strive to provide our customers with a unique online shopping experience, focusing on customer satisfaction and continuous expansion across all fields.</p>
+    </div>
+
+    <div class="features-section">
+        <h2>What Sets Us Apart</h2>
+        <ul>
+            <li>Curated selection of products from trusted suppliers</li>
+            <li>User-friendly web application for easy browsing and purchasing</li>
+            <li>Secure customer accounts with personalized profiles</li>
+            <li>Competitive pricing with daily catalog updates</li>
+        </ul>
+    </div>
+
+<style>
+    .about-us-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 40px 20px;
+        font-family: 'Arial', sans-serif;
+        color: #333;
+    }
+
+    .main-title {
+        text-align: center;
+        color: #2c3e50;
+        font-size: 2.5em;
+        margin-bottom: 30px;
+    }
+
+    .intro-section, .mission-section, .features-section, .team-section, .join-us-section {
+        margin-bottom: 40px;
+    }
+
+    h2 {
+        color: #3498db;
+        font-size: 1.8em;
+        margin-bottom: 20px;
+    }
+
+    p {
+        line-height: 1.6;
+    }
+
+    .features-section ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+
+    .features-section li {
+        margin-bottom: 10px;
+        padding-left: 25px;
+        position: relative;
+    }
+
+    .features-section li::before {
+        content: '✓';
+        color: #2ecc71;
+        position: absolute;
+        left: 0;
+    }
+
+    .founder-cards {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .founder-card {
+        text-align: center;
+        margin: 20px;
+    }
+
+    .founder-card img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+
+    .cta-button {
+        display: inline-block;
+        background-color: #3498db;
+        color: white;
+        padding: 12px 24px;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+        transition: background-color 0.3s;
+    }
+
+    .cta-button:hover {
+        background-color: #2980b9;
+    }
+</style>

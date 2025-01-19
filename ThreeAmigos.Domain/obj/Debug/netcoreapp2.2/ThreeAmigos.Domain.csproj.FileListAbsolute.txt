@@ -1,0 +1,41 @@
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.deps.json
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csprojAssemblyReference.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfoInputs.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfo.cs
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\hala hamed\Source\Repos\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.deps.json
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csproj.AssemblyReference.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfoInputs.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfo.cs
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csproj.CoreCompileInputs.cache
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+c:\Users\Dell\Downloads\cloud DevOps\Cloud System DevOps\Cloud System DevOps\Cloud System DevOps\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.deps.json
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.sourcelink.json
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\Dell\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.deps.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csproj.AssemblyReference.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfoInputs.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfo.cs
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.sourcelink.json
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb

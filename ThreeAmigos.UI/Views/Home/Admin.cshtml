@@ -1,0 +1,126 @@
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2ecc71;
+            --background-light: #f4f7f6;
+            --text-dark: #2c3e50;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            background-color: var(--background-light);
+        }
+
+        .top-nav {
+            background-color: var(--primary-color);
+            padding: 10px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .top-nav a {
+            color: white;
+            text-decoration: none;
+            padding: 5px 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .top-nav a:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .main-content {
+            flex-grow: 1;
+            padding: 30px;
+            background-color: var(--background-light);
+        }
+
+        .dashboard-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .dashboard-cards {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .dashboard-card {
+            background-color: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            text-align: center;
+            transition: transform 0.3s ease;
+            text-decoration: none;
+            color: var(--text-dark);
+        }
+
+        .dashboard-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .dashboard-card i {
+            font-size: 40px;
+            color: var(--primary-color);
+            margin-bottom: 15px;
+        }
+
+        .dashboard-card h3 {
+            margin-bottom: 10px;
+            color: var(--text-dark);
+        }
+    </style>
+</head>
+<body>
+    <div class="main-content">
+        <div class="dashboard-header">
+            <h1>Admin Dashboard</h1>
+            <div class="user-profile">Welcome, Admin</div>
+        </div>
+        <div class="dashboard-cards">
+            <a asp-controller="Products" asp-action="Brands" class="dashboard-card">
+                <i class="fas fa-trademark"></i>
+                <h3>Brands</h3>
+                <p>Manage Product Brands</p>
+            </a>
+            <a asp-controller="Products" asp-action="Categories" class="dashboard-card">
+                <i class="fas fa-list"></i>
+                <h3>Categories</h3>
+                <p>Organize Product Categories</p>
+            </a>
+            <a asp-controller="Products" asp-action="Index" class="dashboard-card">
+                <i class="fas fa-box"></i>
+                <h3>Products</h3>
+                <p>Product Inventory</p>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
