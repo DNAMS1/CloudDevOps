@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreeAmigos.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f3b78bc784f415b51dea75bf46620aa4a6207f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+108f38d7f401a5244f2f1f1c9d7fa7908afd3504")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreeAmigos.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreeAmigos.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

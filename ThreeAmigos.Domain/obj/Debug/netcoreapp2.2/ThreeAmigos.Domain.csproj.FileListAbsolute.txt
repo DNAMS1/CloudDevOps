@@ -39,3 +39,14 @@ C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcore
 C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.sourcelink.json
 C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
 C:\Users\ASRAD\OneDrive\Desktop\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.deps.json
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\bin\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csproj.AssemblyReference.cache
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfoInputs.cache
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.AssemblyInfo.cs
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.sourcelink.json
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.dll
+C:\Users\ASRAD\OneDrive\Desktop\CloudDevOps\CDO\ThreeAmigos\ThreeAmigos.Domain\obj\Debug\netcoreapp2.2\ThreeAmigos.Domain.pdb
